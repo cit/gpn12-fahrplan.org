@@ -1,0 +1,236 @@
+* Fahrplan für die GPN 2012
+ <2012-06-07 Do>--<2012-06-10 So> 
+ - Quelle: [[https://entropia.de/GPN12:Fahrplan][Fahrplan]]
+** Großes Studio ("Nothing")                                        :nothing:
+*** BOOT 'EM UP
+    <2012-06-07 Do 17:00>--<2012-06-07 Do 17:30>
+
+*** What to hack
+    <2012-06-07 Do 18:30>--<2012-06-07 Do 19:30>
+*** Info Beamer Hacking
+    <2012-06-07 Do 20:30>--<2012-06-07 Do 21:30>
+    Wie man das GPN Informationssystem mit Inhalt füllt.
+    dividuum (Entropia)
+*** Raumschiffe in Science und Fiction
+    <2012-06-07 Do 22:00>
+    Eine Raumschiffcollage.
+    Pylon
+*** Die D Sprache für C++ Entwickler
+    <2012-06-08 Fr 12:00>--<2012-06-08 Fr 13:00>
+    Eine gute Alternative zu C++. Einführung, live coding + um Videospielprogrammierung für das Game Jam
+    Bloutiouf
+*** Crash Course Lua
+    <2012-06-08 Fr 13:30>--<2012-06-08 Fr 14:30>
+    Teach yourself Lua in 60 Minutes!
+    vrld
+*** Emacs Org-mode
+    <2012-06-08 Fr 15:00>--<2012-06-08 Fr 15:45>
+    Der hackbare Notizblock in Plaintext
+    Florian Adamsky
+*** Roboter in die Schule: Das HERD (HERD of Educational Robotic Devices) Projekt
+    <2012-06-08 Fr 16:00>--<2012-06-08 Fr 16:45>
+    Der Vortrag stellt Konzept und Hardware des HERD Projektes (http://herd-project.org/) vor, welches sich zum Ziel gesetzt hat Robotik (als eine ansprechende Ausprägung von Informatik) in Form einfacher und günstiger Schwarmroboter fest in (allgemeinbildenden) Schulen zu etablieren.
+    ahb
+*** Linux Networking: Ninja Style
+    <2012-06-08 Fr 17:00>--<2012-06-08 Fr 17:30>
+    Netzwerk-Konfiguration, die man so noch nie gesehen hat.
+    sECuRE
+*** Crunchman's Memoirs
+    <2012-06-08 Fr 18:00>--<2012-06-08 Fr 19:00>
+    More details to come (talk will be in english)
+    John "Crunchman" Draper
+*** Wie man eine 64Kilobyte-Intro baut
+    <2012-06-08 Fr 20:30>--<2012-06-08 Fr 21:30>
+    "äh, wir haben nur 44KB voll bekommen"
+    3 Minuten Bild und Ton in 64 Kilobyte - cupe zeigt Tools und Entstehungsprozess von "epsilon" von mercury mit Fokus auf Shadergefrickel.
+    cupe (Entropia)
+*** Gulaschbytes                                                       :null:
+    <2012-06-08 Fr 22:00>
+    Gulaschbytes ist eine Gameshow mit nerdkompatiblen Bilderrätseln. Gesichtspalmen sind garantiert! (Im Großem Studio!)
+    jiska (Entropia)
+*** When biotech is outlawed, only outlaws will do biotech.
+    <2012-06-09 Sa 12:00>--<2012-06-09 Sa 13:00>
+    Ein etwas anderer Blick auf die Diskussion zur Gentechnik in der Landwirtschaft und die Möglichkeiten von DIYBIO.
+    Trottelreiner
+*** Angriffe auf Wireless Local Area Networks
+    <2012-06-09 Sa 13:30>--<2012-06-09 Sa 14:30>
+    Der Vortrag behandelt im theoretischen Teil die Funktionsweise von Wireless Local Area Networks, im praktischen Teil wird eine Vielfalt an Angriffen auf diese vorgestellt.
+    phrazer
+*** 3D Printing: code -> drucken -> nerfgun
+    <2012-06-09 Sa 15:00>--<2012-06-09 Sa 16:00>
+    Wie baue ich einen 3D-Drucker der sich selbst vervielfältigen kann
+    mnt
+*** Lightning Talks
+    <2012-06-09 Sa 16:30>--<2012-06-09 Sa 17:30>
+    Kurzvorträge hier entlang!
+    moderiert von florolf (Entropia)
+*** Tschunk-Workshop
+    <2012-06-09 Sa 18:00>--<2012-06-09 Sa 19:00>
+    oder wie lernt man einen ordentlichen Tschunk zu bauen
+    Martin (entropia)
+*** Steal This Talk
+    <2012-06-09 Sa 20:30>--<2012-06-09 Sa 21:30>
+    Kreativität und Innovation fördern durch künstliche Knappheit: does not compute…
+    Christian Staudt
+*** Party                                                              :null:
+    <2012-06-08 Fr 22:00>
+    (im Partybereich)
+    Für das akustische Wohlbefinden sorgen:
+    22.00 - 22.30 Benoît and the Mandelbrots (Live Coding, Electronic, Ambient)
+    22.30 - 23.30 Gerd Weyhing (Live, Electronic, Progressive Ambient)
+    23.30 - 00.30 massl (Drum & Bass)
+    00.30 - 01.30 Zeitgeist (Dubstep, Drum & Bass, Electro, Glitchstep)
+    01.30 - 02.30 Herrmonie (Staxoramakopfnicker)
+    02.30 - 03.30 unsound (Dub, Electro)
+*** Wunderwelt des SSH – mehr als nur Telnet mit Crypto
+    <2012-06-10 So 11:30>--<2012-06-10 So 12:30>
+    Wunderbare Dinge mit SSH und ein Blick in die Innereien
+    Bios
+*** Introduction to Vorbis
+    <2012-06-10 So 12:45>--<2012-06-10 So 13:45>
+    How does the open and free audio compression format Vorbis work?
+    the_nihilant
+*** CMS4Nerds - Vermitteln von informationeller Selbstbestimmung im Alltag
+    <2012-06-10 So 14:00>--<2012-06-10 So 15:00>
+    Der Titel sagt schon Alles!
+    Dag & Martin
+*** Shutdown                                                           :null:
+    <2012-06-10 So 15:15>
+** Blauer Salon ("null")                                               :null:
+*** BOOT 'EM UP
+    <2012-06-07 Do 17:00>--<2012-06-07 Do 17:30>
+    Die GPN startet in ihrer 12. Version!
+    Eve Entropia (Entropia)
+*** Klangsynthese und Live-Coding mit SuperCollider
+    <2012-06-07 Do 20:30>--<2012-06-07 Do 21:30>
+    Kurze Einführung in die Open Source Audioprogrammierumgebung SuperCollider mit Schwerpunkt auf Live-Coding, dem Programmieren von Klängen, Musik oder Animationen als kreativer Prozess.
+    Mandelbrots
+*** Agda: Mit starken Typen abhängen
+    <2012-06-07 Do 22:00>
+    In einer Live-Programmier-Demonstration sehen wir, wie man mit abhängigen Typen Programme schreibt und als korrekt beweist.
+    nomeata (Entropia)
+*** Heterosexismus hacken
+    <2012-06-08 Fr 12:00>--<2012-06-08 Fr 13:00>
+    ‚Ich bin keine Hackerin‘ – und es wird Zeit, dass wir uns fragen, wieso.
+    Laura Stumpp
+*** Informatik in der Schule
+    <2012-06-08 Fr 13:30>--<2012-06-08 Fr 14:30>
+    Vortrag mit Saaldiskussion über den Informatikunterricht am bayerischen Gymnasium
+    gigo (µc³)
+*** damn treehuggers
+    <2012-06-08 Fr 15:00>--<2012-06-08 Fr 15:45>
+    no paradise? create it!
+    mary jane, robin food
+*** meillo's mail handler
+    <2012-06-08 Fr 16:00>--<2012-06-08 Fr 16:45>
+    Ein Mail-Client der der Unix-Philosophie folgt.
+    meillo
+*** Die neuen politischen Proteste und ihre Vernetzung
+    <2012-06-08 Fr 17:00>--<2012-06-08 Fr 17:30>
+    Ein kleiner Streifzug durch die Technologien, derer sich die neuen Proteste bedienen und wie man zu neuen Ansätzen kommt.
+    Sempfe
+*** systemd
+    <2012-06-08 Fr 18:00>--
+    Warum du so schnell wie möglich auf systemd migrieren möchtest, und das aufgrund der lauten Flamewars um das Thema einfach noch nicht weißt.
+    sECuRE
+*** You are HERO - Questdesign im Real Life
+    <2012-06-08 Fr 20:30>--<2012-06-08 Fr 21:30>
+    Die Erschaffung einer Open-Source Plattform, die es dem Nutzer ermöglicht, sich als Held den Herausforderungen, die das Real Life bietet, zu stellen, anderen Menschen zu helfen und die Welt zu retten.
+    Greta
+*** Gulaschbytes                                                    :nothing:
+    <2012-06-08 Fr 22:00>
+    Gulaschbytes ist eine Gameshow mit nerdkompatiblen Bilderrätseln. Gesichtspalmen sind garantiert! (Im Großem Studio!)
+    jiska (Entropia)
+*** HTML5 Security
+    <2012-06-09 Sa 12:00>--<2012-06-09 Sa 13:00>
+    Neue Browser, neues Glück
+    MartinJ
+
+*** Segelfliegen: Auch für Bastler
+    <2012-06-09 Sa 13:30>--<2012-06-09 Sa 14:30>
+    Eine kleine Vorstellung von Segelflugsport (auch bekannt als Bausport).
+    Leonie (Entropia)
+*** Eigentum, Sex und die Cloud
+    <2012-06-09 Sa 15:00>--<2012-06-09 Sa 16:00>
+    Das Internet vereinfacht die Organisation des Zugriffs auf soziale und materielle Ressourcen dramatisch. Sowohl die Stellung des Eigentums in der Lebenswelt sowie die Formen des Zusammenlebens verändern sich durch die neuen Möglichkeiten hin zur Freiheit. Julian Finn und Michael Seemann sehen darin die Bausteine einer utopischen Skizze.
+    Julian (entropia)
+*** Hardware Design Patterns
+    <2012-06-09 Sa 16:30>--<2012-06-09 Sa 17:30>
+    Wie kann ich für ein Projekt die Elektronik entwerfen und was sollte ich dabei beachten?
+    Felix (entropia)
+
+*** Maintainern 101
+    <2012-06-09 Sa 18:00>--<2012-06-09 Sa 19:00>
+    Das Leben als Maintainer: DOs, DON'Ts und ein paar Erfahrungen
+    equinox
+*** Go – eine moderne Programmiersprache
+    <2012-06-09 Sa 20:30>--<2012-06-08 Fr 21:30>
+    Eine Einführung in Go, eine moderne Programmiersprache, die sich besonders gut für Concurrency und Parallelism eignet.
+    sECuRE
+*** Party                                                           :nothing:
+    <2012-06-08 Fr 22:00>
+    (im Partybereich)
+    Für das akustische Wohlbefinden sorgen:
+    22.00 - 22.30 Benoît and the Mandelbrots (Live Coding, Electronic, Ambient)
+    22.30 - 23.30 Gerd Weyhing (Live, Electronic, Progressive Ambient)
+    23.30 - 00.30 massl (Drum & Bass)
+    00.30 - 01.30 Zeitgeist (Dubstep, Drum & Bass, Electro, Glitchstep)
+    01.30 - 02.30 Herrmonie (Staxoramakopfnicker)
+    02.30 - 03.30 unsound (Dub, Electro
+*** Storageanbindung im WAN über iSCSI bei Bandbreiten bis zu 10GBit
+    <2012-06-10 So 11:30>--<2012-06-10 So 12:30>
+    ???
+    Corvan
+*** Elektronikentwicklung by High Speed Karlsruhe
+    <2012-06-10 So 12:45>--<2012-06-10 So 13:45>
+    ???
+    Kamikaze
+*** Introduction to Tahoe-LAFS
+    <2012-06-10 So 14:00>--<2012-06-10 So 15:00>
+    Eine kleine Einführung zu Tahoe-LAFS und warum es toller als geschnittenes Brot ist (wenn man grade keinen Hunger hat)
+    Bios
+*** Shutdown                                                        :nothing:
+    <2012-06-10 So 15:15>
+** Großer Seminarraum („NIL“)                                           :NIL:
+*** Lockpicking
+    <2012-06-07 Do 19:30>--<2012-06-07 Do 21:30>
+    Die Theorie zur Praxis: Wie funktioniert ein Schließzylinder und wie entsperrt man ihn gewaltfrei ohne Schlüssel? 
+    Loubna (SSDeV Karlsruhe)
+*** Startschuss zum Gamejam
+    <2012-06-07 Do 21:00>
+*** Nomic 
+    <2012-06-07 Do 23:59>
+    (Regeln hier), Ein Spiel, bei dem es darum geht, die Regeln des Spiels zu ändern. Bitte Notebook mitbringen. 
+    fxkr (Entropia)
+
+*** Location Based Games 
+     <2012-06-08 Fr 11:15>--<2012-06-08 Fr 12:30>
+     (Vortrag) 
+     sotP
+*** Lockpicking
+    <2012-06-08 Fr 12:30>--<2012-06-08 Fr 14:00>
+*** ZKM Besuch
+    <2012-06-08 Fr 14:00>--<2012-06-08 Fr 14:30>
+    (freier Eintritt bis 18:00 Uhr!)
+*** PGP-Keysigning-Party 
+    <2012-06-08 Fr 14:30>--<2012-06-08 Fr 19:00>
+    (Workshopraum... wird noch besser spezifiziert)
+*** Trollbriefing 
+    <2012-06-08 Fr 19:00>--<2012-06-08 Fr 19:30>
+    (Infotresen)
+*** Gulaschausgabe
+    <2012-06-08 Fr 19:30>
+*** Die Werwölfe von Düsterwald 
+    <2012-06-08 Fr 23:59>
+*** Urban Hacking: Hacking the Public Space 
+    <2012-06-08 Fr 16:00>
+    Mey Lean Kronemann
+*** Trollbriefing 
+    <2012-06-08 Fr 19:00>
+    (Infotresen)
+*** Gulaschausgabe 
+    <2012-06-08 Fr 19:30>
+    (Bar)
+*** Deadline Gamejam-Abgabe 
+    <2012-06-08 Fr 21:30>
+    (Hinweis)
